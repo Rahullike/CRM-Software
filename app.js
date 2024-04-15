@@ -1,4 +1,5 @@
-//declaration
+//New declaration changes
+//new changes made
 const express 		= require('express');
 const explayouts          = require('express-ejs-layouts');
 const bodyParser 	= require('body-parser');
